@@ -1,0 +1,17 @@
+= cgiup
+
+Party like it's 1999! Run your awesome Ruby CGI applications...err, scripts like Rack applications.
+
+== Installation
+
+  gem install cgiup
+
+== Usage
+
+  cgiup /path/to/script.cgi
+  
+Starts a WEBrick HTTP server on http://localhost:2000 that runs the CGI script.
+  
+== Author
+
+Ryan Carmelo Briones <ryan.briones@brionesandco.com>
